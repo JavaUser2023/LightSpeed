@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("Hello"); 
 		LocalDateTime l=LocalDateTime.now();
 	System.out.println(l);
+	System.out.println(l.getYear());
 	}
 
 }
